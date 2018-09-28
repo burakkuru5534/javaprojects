@@ -2,11 +2,10 @@
 public class Methods extends Members {
 
 	
-	 public void toplama(int a , int b){
+	public void toplama(int a , int b){
 		
 	
-		 sonuc = a + b ;
-		
+		sonuc = a + b ;
 		
 	}
 	
